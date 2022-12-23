@@ -1,4 +1,4 @@
-# PARAFAC-ML_PRODOM
+# PRODOM
 Tools for analysing fluorescence data using PARAFAC and Machine Learning (ML)
 -----------------------------------------------------------------------------------
 Project: PRODOM - Proactive Optical Monitoring of Catchment Dissolved Organic Matter for Drinking Water Source Protection
