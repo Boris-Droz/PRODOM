@@ -24,5 +24,5 @@ Getting started
 How to cite
 -----------
 
-Additional materials
+Associated data set
 --------------------
