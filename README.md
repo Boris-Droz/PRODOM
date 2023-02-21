@@ -16,9 +16,10 @@ Source code is primarily written in the R language version 4.2.0.
 
 Getting started
 ----------------
-1.	Copy the folder EEM-PARAFAC and ML-script who contain script
-2.	Check out folder input for exemple of input
-3.	Follow the instructions on each description of annoted script
+1.	Tuto file contain a small description on the script and procedure to follow.
+2.  Copy the folder EEM-PARAFAC and ML-script who contain script
+3.	Check out folder input for exemple of input
+4.	Follow the instructions on each description of annoted script
 
 How to cite
 -----------
