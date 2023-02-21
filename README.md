@@ -7,6 +7,8 @@ Project: PRODOM - Proactive Optical Monitoring of Catchment Dissolved Organic Ma
 Description
 --------------------
 EEM-PARAFAC follow the tutorial of Pucher, M.; et al. Water 2019, 11 (11), 2366. https://doi.org/10.3390/w11112366
+Then the ML tools are follow different package in R for quantitative calibration and model evaluation. 
+Description are given in the beggining of each scripts.
 
 Implementation notes
 --------------------
@@ -14,8 +16,8 @@ Source code is primarily written in the R language version 4.2.0.
 
 Getting started
 ----------------
-1.	Copy the folder EEM-PARAFAC
-2.	
+1.	Copy the folder EEM-PARAFAC and ML-script who contain script
+2.	Check out folder input for exemple of input
 3.	Follow the instructions on each description of annoted script
 
 How to cite
