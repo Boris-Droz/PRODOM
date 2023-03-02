@@ -20,7 +20,7 @@ Getting started
 2.  Copy the folder EEM-PARAFAC and ML-script who contain script
 3.	Check out folder input for exemple of input
 4.	Follow the instructions on each description of annoted script
-5. Enjoy your prediction ...
+5. Enjoy your predictions ...
 
 How to cite
 -----------
