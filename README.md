@@ -22,8 +22,8 @@ Getting started
 4.	Follow the instructions on each description of annoted script
 5. Enjoy your predictions ...
 
-How to cite
------------
+Associated data set and workflow
+--------------------------------
+Droz, B.; Fernandez-Pascual, E.; O’Dwyer, J.; Harrison, S.; O’Driscoll, C.; Goslan, E.; Quishi, X.; Weatherill, J. Data of the EPA - PRODOM project v1.0. https://doi.org/10.5281/zenodo.7244913. 
 
-Associated data set
---------------------
+Droz, B.; Fernandez-Pascual, E.; O’Dwyer, J.; Harrison, S.; O’Driscoll, C.; Goslan, E.; Quishi, X.; Weatherill, J. Calibrate machine learning model workflow for disinfection byproduct formation prediction for R. v1.0. https://doi.org/10.5281/zenodo.7886046.
