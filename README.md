@@ -16,7 +16,7 @@ Source code is primarily written in the R language version 4.2.0.
 
 Getting started
 ----------------
-1.	Tuto file contain a small description on the script and procedure to follow.
+1.	Tutorialv1.0 pdf file contain a small description on the script and procedure to follow.
 2.  Copy the folder EEM-PARAFAC and ML-script who contain script
 3.	Check out folder input for exemple of input
 4.	Follow the instructions on each description of annoted script
@@ -24,6 +24,6 @@ Getting started
 
 Associated data set and workflow
 --------------------------------
-Droz, B.; Fernandez-Pascual, E.; O’Dwyer, J.; Harrison, S.; O’Driscoll, C.; Goslan, E.; Quishi, X.; Weatherill, J. Data of the EPA - PRODOM project v1.0. https://doi.org/10.5281/zenodo.7244913. 
+Droz, B.; Fernández-Pascual, E.; O’Dwyer, J.; Goslan, E. H.; Quishi, X.; Harrison, S.; O’Driscoll, C.; Weatherill, J. Data of the EPA - PRODOM project v1.0. https://doi.org/10.5281/zenodo.7244913. 
 
-Droz, B.; Fernandez-Pascual, E.; O’Dwyer, J.; Harrison, S.; O’Driscoll, C.; Goslan, E.; Quishi, X.; Weatherill, J. Calibrate machine learning model workflow for disinfection byproduct formation prediction for R. v1.0. https://doi.org/10.5281/zenodo.7886046.
+Droz, B.; Fernández-Pascual, E.; O’Dwyer, J.; Goslan, E. H.; Quishi, X.; Harrison, S.; O’Driscoll, C.; Weatherill, J. Calibrated machine learning model workflow for disinfection byproduct formation prediction for R. v1.0. https://doi.org/10.5281/zenodo.7886046.
