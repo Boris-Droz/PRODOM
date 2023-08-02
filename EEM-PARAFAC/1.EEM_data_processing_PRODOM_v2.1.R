@@ -84,7 +84,7 @@ cuv.siz = 1 # size of the cell for the spectro
 
 remove_scatter_width <- c(15,10,16,12) # defaut parameter of the function
 
-RtoQ<- 0.03 #factor of Raman to quinine ratio specific to instrument
+RtoQ<- 0.0085 #factor of Raman to quinine ratio specific to instrument
 
 #################################################################################################################################################
 # FUNCTION check and produced subDir folder
