@@ -27,3 +27,8 @@ Associated data set and workflow
 Droz, B.; Fernández-Pascual, E.; O’Dwyer, J.; Goslan, E. H.; Quishi, X.; Harrison, S.; O’Driscoll, C.; Weatherill, J. Data of the EPA - PRODOM project v1.0. https://doi.org/10.5281/zenodo.7244913. 
 
 Droz, B.; Fernández-Pascual, E.; O’Dwyer, J.; Goslan, E. H.; Quishi, X.; Harrison, S.; O’Driscoll, C.; Weatherill, J. Calibrated machine learning model workflow for disinfection byproduct formation prediction for R. v1.0. https://doi.org/10.5281/zenodo.7886046.
+
+Papers and reports
+------------------
+Weatherill, J.; Droz, B.; Fernández-Pascual, E.; Jean O’Dwyer, E. G., Connie O’Driscoll and Simon Harrison. Proactive Optical Monitoring of Catchment Dissolved Organic Matter for Drinking Water Source Protection (PRODOM); 2019-W-MS-43; University College Cork, Cork, IR, 2025. https://www.epa.ie/publications/research/water/Research_Report-486.pdf
+
